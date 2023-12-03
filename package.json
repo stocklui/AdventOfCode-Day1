@@ -1,0 +1,12 @@
+{
+  "name": "aoc2023day1",
+  "version": "1.0.0",
+  "description": "Solving the first riddle of Advent of Code 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Luise",
+  "license": "ISC"
+}
